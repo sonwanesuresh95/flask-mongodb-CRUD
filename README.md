@@ -18,4 +18,4 @@ $ python app.py
 ```
 
 ## Snapshots
-![]()
+![](https://github.com/sonwanesuresh95/flask-mongodb-CRUD/blob/main/Supercars%20-%20Google%20Chrome%2014-12-2020%2022_10_28.png)
